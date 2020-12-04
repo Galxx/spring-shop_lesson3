@@ -16,3 +16,5 @@ spring:
           use_jdbc_metadata_defaults: false
   thymeleaf:
     encoding: UTF-8
+aop:
+  aspectj: autoproxy
